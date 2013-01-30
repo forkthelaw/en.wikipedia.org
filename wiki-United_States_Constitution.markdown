@@ -174,7 +174,7 @@ The Constitution was adopted on September 17, 1787, by the [Constitutional Conve
 
 The United States Constitution can be changed through the amendment process. [Constitutional amendments](http://en.wikipedia.org/wiki/Constitutional_amendment "Constitutional amendment") are added to it, altering its effect. The first ten amendments, ratified by three-fourths of the states in 1791, are known as the [Bill of Rights](http://en.wikipedia.org/wiki/United_States_Bill_of_Rights "United States Bill of Rights"). The [Constitution has been amended](http://en.wikipedia.org/wiki/List_of_amendments_to_the_United_States_Constitution "List of amendments to the United States Constitution") seventeen additional times (for a total of twenty-seven amendments). Principles of the Constitution, as amended, are applied in courts of law by [judicial review](http://en.wikipedia.org/wiki/Judicial_review "Judicial review").
 
-The Constitution guides American [law](http://en.wikipedia.org/wiki/Law "Law") and [political culture](http://en.wikipedia.org/wiki/Political_culture "Political culture"). [Its writers](http://en.wikipedia.org/wiki/Founding_Fathers_of_the_United_States_of_America "Founding Fathers of the United States of America") composed the first constitution of its kind incorporating recent developments in [constitutional theory](http://en.wikipedia.org/wiki/Constitutional_theory "Constitutional theory") with multiple traditions, and their work influenced later writers of national [constitutions](http://en.wikipedia.org/wiki/Constitution "Constitution"). It has been [amended](http://en.wikipedia.org/wiki/List_of_amendments_to_the_United_States_Constitution "List of amendments to the United States Constitution") over time and it is supplemented and interpreted by a large body of [United States constitutional law](http://en.wikipedia.org/wiki/United_States_constitutional_law "United States constitutional law"). Recent impulses for reform center on concerns for extending [democracy](http://en.wikipedia.org/wiki/Democracy "Democracy") and [balancing the federal budget](http://en.wikipedia.org/wiki/Taxing_and_Spending_Clause#Restrictions_on_spending "Taxing and Spending Clause").
+The Constitution guides American [law](http://en.wikipedia.org/wiki/Law "Law") and [political culture](http://en.wikipedia.org/wiki/Political_culture "Political culture"). [Its writers](http://en.wikipedia.org/wiki/Founding_Fathers_of_the_United_States_of_America "Founding Fathers of the United States of America") composed the first constitution of its kind incorporating recent developments in [constitutional theory](http://en.wikipedia.org/wiki/Constitutional_theory "Constitutional theory") with multiple traditions, and their work influenced later writers of national [constitutions](http://en.wikipedia.org/wiki/Constitution "Constitution"). It is supplemented and interpreted by a large body of [United States constitutional law](http://en.wikipedia.org/wiki/United_States_constitutional_law "United States constitutional law"). Recent impulses for reform center on concerns for extending [democracy](http://en.wikipedia.org/wiki/Democracy "Democracy") and [balancing the federal budget](http://en.wikipedia.org/wiki/Taxing_and_Spending_Clause#Restrictions_on_spending "Taxing and Spending Clause").
 
 ## History
 
@@ -208,7 +208,7 @@ On the appointed day, May 14, 1787, only the Virginia and Pennsylvania delegatio
 
   ![](//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Scene_at_the_Signing_of_the_Constitution_of_the_United_States.jpg/270px-Scene_at_the_Signing_of_the_Constitution_of_the_United_States.jpg)
 
-  ![](//bits.wikimedia.org/static-1.21wmf7/skins/common/images/magnify-clip.png)
+  ![](//bits.wikimedia.org/static-1.21wmf8/skins/common/images/magnify-clip.png)
   [Signing the Constitution](http://en.wikipedia.org/wiki/Scene_at_the_Signing_of_the_Constitution_of_the_United_States "Scene at the Signing of the Constitution of the United States"), 'unanimous' by delegation. Eleven states ratify to begin in 1789, unanimously 1790
 
 The Constitutional Convention began deliberations on May 25, 1787. The delegates were generally convinced that an effective central government with a wide range of enforceable powers must replace the weaker Congress established by the Articles of Confederation. The high quality of the delegates to the convention was remarkable. As Thomas Jefferson in Paris wrote to John Adams in London, "It really is an assembly of demigods." According to one view, the Framers embraced ambiguity in the constitutional text since it allows for compromise and cooperation about broad concepts rather than specific circumstances. [14]
@@ -231,7 +231,7 @@ The advocates of the Constitution were anxious to obtain the unanimous support o
 
   ![](//upload.wikimedia.org/wikipedia/commons/thumb/0/09/13_colonies_in_1775_%28large%29.png/220px-13_colonies_in_1775_%28large%29.png)
 
-  ![](//bits.wikimedia.org/static-1.21wmf7/skins/common/images/magnify-clip.png)
+  ![](//bits.wikimedia.org/static-1.21wmf8/skins/common/images/magnify-clip.png)
 The 13 colonies in 1775
 
 It was within the power of the old congress to expedite or block the ratification of the new Constitution. The document that the Philadelphia Convention presented was technically only a revision of the Articles of Confederation. But the last article of the new instrument provided that when ratified by conventions in nine states (or 2/3 at the time), it should go into effect among the States so acting.
@@ -291,7 +291,7 @@ The Constitution consists of a preamble, seven original articles, [twenty-seven 
 
   ![](//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Constitution_We_the_People.jpg/220px-Constitution_We_the_People.jpg)
 
-  ![](//bits.wikimedia.org/static-1.21wmf7/skins/common/images/magnify-clip.png)
+  ![](//bits.wikimedia.org/static-1.21wmf8/skins/common/images/magnify-clip.png)
 "We the People", as it appears in an original copy of the Constitution.
 
 Main article: [Preamble to the United States Constitution](http://en.wikipedia.org/wiki/Preamble_to_the_United_States_Constitution "Preamble to the United States Constitution")
@@ -503,7 +503,7 @@ Given their history of colonial government, most Americans wanted guarantees aga
 
   ![](//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Bill_of_Rights_Pg1of1_AC.jpg/200px-Bill_of_Rights_Pg1of1_AC.jpg)
 
-  ![](//bits.wikimedia.org/static-1.21wmf7/skins/common/images/magnify-clip.png)
+  ![](//bits.wikimedia.org/static-1.21wmf8/skins/common/images/magnify-clip.png)
   ** [United States Bill of Rights](http://en.wikipedia.org/wiki/United_States_Bill_of_Rights "United States Bill of Rights")**  
 Currently housed in the [National Archives](http://en.wikipedia.org/wiki/National_Archives_and_Records_Administration "National Archives and Records Administration").
 
